@@ -8,7 +8,7 @@
     'description': """
         Conecta las cuentas bancarias para importar de manera automática los extractos bancarios y poder realizar la conciliación bancaria
     """,
-    "images": ["static/description/Fintoc_portada.png","static/description/Fintoc1.png"],
+    "images": ["static/description/Fintoc_portada.png"],
     "license": "OPL-1",
     'author': "Blueminds",
     'website': "http://www.blueminds.cl",
